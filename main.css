@@ -2,6 +2,17 @@ body {
     background-color: firebrick;
 }
 
+
+.chase {
+    margin-top: 20px;
+    display: inline-block;
+    width: 700px;
+    text-align: left;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
 footer { 
     display: block;
+    justify-content: end
 }
